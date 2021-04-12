@@ -14,6 +14,7 @@ hypermodern-python = "hypermodern_python.console:main"
 [tool.poetry.dependencies]
 python = "^3.8"
 click = "^7.1.2"
+requests = "^2.25.1"
 
 [tool.poetry.dev-dependencies]
 
